@@ -1,0 +1,19 @@
+1. Start Terminal by clicking on the terminal icon
+2. git clone by pasting this   
+   --config="http.proxy=http://uname:pword@192.168.2.1:8080" http://url-to-your-repo      
+ onto terminal and erase some information that does not refer to you such as the username and the password. Type your own username and password for proxy and hit enter   
+3. type 
+cd 
+and then type the first letter of the username you use for github. Then press tab, the whole name of the username should pop up.
+4. Press enter, then the username should be blue. 
+5. To make a new file, type 
+gedit and the name of your new file.
+6. After the file pops up, type text and then save it. 
+7. After that, type 
+git add and the name of your file
+8. Next, type 
+git commit -m "Commit Comment" 
+The comment should be a comment for what you did to change the file.
+9. Lastly, type 
+git push
+10. When you do this, you are required to type in your username and password for github.com
