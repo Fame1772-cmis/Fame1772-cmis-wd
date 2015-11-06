@@ -9,3 +9,10 @@
 8. git add <file name>: to start tracking new files and also to stage changes to already tracked files
 9. git commit -m "Commit Comment": records changes to the repository
 10.git push: push your new branches and data to a remote repository
+11 sftp username@cmis-hsteacher= transfer files
+12.rm=remove file
+13 put=put file
+14 rm *= remove all file
+15 put *= put all file
+16 !ls=every file in Mr. Kieffer's
+
