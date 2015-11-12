@@ -1,24 +1,42 @@
 h1 {
-	font-family: courier new;
+	font-family:courier new;
 	color: thistle;
 	font-size: 50px;
+	background-color: #FF00FF;
+	border: solid 10px;
+}
+h2 {
+	font-family:Arial Black;
+	color: Chocolate;
+	font-size: 30px;
+	background-color: #99FF33; 
+	border: transparent dotted #FFEBCD;
 }
 p{
+	font-family: Trebuchet MS;
+	color: Gold;
 	font-size: 20px;	
 	background-color: #abf9ff;
-	border: solid 1px #feabfe;
+	border: solid outset #feabfe;
 }
-/*Create a new file called "main.css"
-Add a link element to the head of your index.html file
+footer{
+	font-family: Lucida Sans Unicode;
+	color: lime;
+	font-size: 20px; 
+	background-color: #330099;
+	border: transparent 30px;
+}
+*/*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
 <link rel="stylesheet" href="main.css" type="text/css">
-Edit the main.css file
-add a declaration for each element in the body of your index.html file.
-add properties to style the background color of each element.
-add properties to style the border of each element.
-add properties to style the font of each element.
-View your index.html in the development server.
-Validate your index.html file.
-Validate your main.css file.
-Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
-Upload to the production server with sftp.
-View your index.html in the production server.
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asteris*k in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server.
