@@ -1,0 +1,47 @@
+h1 {
+	color: yellow;
+	background-color: purple;
+	font-family: Impact;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 25px;
+}
+p {
+	color: blue;
+	font-family: impact;
+	font-style: italic;
+	background-color: red;
+	border-bottom-style: dashed;
+	border-bottom-width: 8px;
+	border-bottom-color: yellow;
+	font-size: 14px;
+	text-align: left;
+}
+h2 {
+	color: purple;
+	background-color: yellow;
+	border-top-style: dashed;
+	border-top-width: 2px;
+	border-top-color: purple;
+	text-align: left;
+}
+h3 {	color: yellow;
+	background-color: green;
+	border-bottom-style: dotted;
+	border-bottom-width: 4px;
+}
+h4 {
+	color: blue;
+	font-size: 15px
+	text-align: left;
+	font-family: georgia serif;
+}
+footer {
+	color: blue;
+	font-size: 15px;	
+	border-left-style: groove;
+	border-left-color: orange;
+	border-left-width: 10px;
+	border-top-style: dotted;
+	border-top-width: 1px;
+}
