@@ -1,7 +1,38 @@
-div {
-    background-color: lightgrey;
-    width: 300px;
-    padding: 25px;
-    border: 25px solid navy;
-    margin: 25px;
+ main h2 {
+	background-color:yellow;
+	width: 125px;
+	padding: 25px;
+	border: 25px dotted lime;
+	margin: 25px;
 }
+header > h1 {
+	background-color: blue;
+	width: 150px;
+	padding: 30px;
+	border: 20px dashed purple;
+	margin: 40px; 
+}
+nav ~ main {
+	background-color: violet;
+	width: 445px;
+	padding: 29px;
+	border: 26px outset teal;
+	margin: 20px;
+}
+head ~ body {
+	background-color:red;
+	width: 600px;
+	padding: 20px;
+	border: 20px inset black;
+	margin: 20px;
+}
+header + nav {
+	background-color: yellow;
+	width: 100px;
+	padding: 30px;
+	border: 20px groove white;
+	margin: 30px;
+}
+footer 
+
+
