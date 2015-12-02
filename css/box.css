@@ -16,14 +16,14 @@ nav ~ main {
 	background-color: violet;
 	width: 445px;
 	padding: 29px;
-	border: 26px outset teal;
+	border: 26px outset black;
 	margin: 20px;
 }
 head ~ body {
-	background-color:red;
+	background-color:lavender;
 	width: 600px;
 	padding: 20px;
-	border: 20px inset black;
+	border: 20px inset purple;
 	margin: 20px;
 }
 header + nav {
@@ -33,6 +33,28 @@ header + nav {
 	border: 20px groove white;
 	margin: 30px;
 }
-footer 
+h2 ~ p{
+	background-color: orange;
+	width: 400px;
+	padding: 40px;
+	border: 30px inset yellow; 
+	margin: 40px;
+}
+h2 ~ table{
+	background-color: lavenderblush;
+	width: 100px;
+	padding: 40px; 
+	border: 20px inset blue;
+	margin: 50px;
+}
+footer {
+	background-color: mediumorchid;
+	width: 200px;
+	padding: 50px;
+	border: 40px solid palevioletred;
+	margin: 25px;
+}
+	
+
 
 
