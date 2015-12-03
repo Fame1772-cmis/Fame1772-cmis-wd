@@ -22,8 +22,8 @@
 22. http://cmis-hsteacher/~fame1772=Will see file if the index file is there
 23. localhost:8000=see file on website
 24. localhost:8000/filename=see particular file on website
-25. http://cmis-hsteacher/fame1772/file
-26. http://cmis-hsteacher/fame1772/file/file
+25.http://cmis-hsteacher/~fame1772/file
+26.http://cmis-hsteacher/~fame1772/file/file
 27. mkdir= make directory
 28. blue text=folder
 29. rmdir=remove file
