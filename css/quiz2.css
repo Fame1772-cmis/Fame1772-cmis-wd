@@ -1,0 +1,50 @@
+h1 {
+	background-color:red;
+	width:300px;
+	padding: 25px;
+	border: 25px;
+	margin: 25px;
+}
+h2 {
+	color: white; 
+	background-color:red;
+	width:300px;
+	padding: 25px;
+	border: 25px;
+	margin: 25px;
+}
+nav  {
+	background-color: white;
+	width: 445px;
+	padding: 29px;
+	border: 26px solid black;
+	margin: 20px;
+}
+header + nav {
+	background-color: white;
+	width: 300px;
+	padding: 20px;
+	border: 20px black solid;
+	margin: 30px;
+}
+h2 ~ p{
+	background-color: orange;
+	width: 400px;
+	padding: 40px;
+	border: 30px inset yellow; 
+	margin: 40px;
+}
+h3 ~ table{
+	background-color: yellow;
+	width: 100px;
+	padding: 40px; 
+	border: 20px;
+	margin: 50px;
+}
+footer {
+	background-color: white;
+	width: 200px;
+	padding: 50px;
+	border: 20px dashed blue;
+	margin: 25px;
+}
