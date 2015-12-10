@@ -1,3 +1,8 @@
 *{ 
 	outline: groove yellow;
 }
+h1 {
+border: orange solid;
+color: yellow;
+background-color: green;
+}
