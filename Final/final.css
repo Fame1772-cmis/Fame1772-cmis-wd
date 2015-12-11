@@ -1,8 +1,66 @@
 *{ 
-	outline: groove yellow;
+	outline: groove #B0E9E9;
+}
+head ~ body {
+background-color:  #B2E9E9 ;
 }
 h1 {
-border: orange solid;
-color: yellow;
-background-color: green;
+background-color: #FDE4F2;
+color: #FF9A9A;
+border: outset #EFFDD2;
+border-width: 5px;
+float: left;
+clear: left;
 }
+h2 {
+background-color: #FDE4F2;
+color: #FF9A9A;
+border: outset #EFFDD2;
+border-width: 5px;
+float: left;
+clear: left;
+}
+main {
+background-color: #AD5597;
+color: #5C60A3;
+border: outset #E0F5A0 5px; 
+clear: middle;
+}
+h3 {
+background-color: #AD5597;
+color: #5C60A3;
+border: outset #E0F5A0 5px; 
+clear: middle;
+}
+article {
+clear:both;
+margin: 500px;
+}
+footer {
+background-color: #FDE4F2;
+color: #FF9A9A;
+border: outset #EFFDD2;
+border-width: 5px;
+float: left;
+clear: left;
+}
+img {
+float: left;
+clear: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
