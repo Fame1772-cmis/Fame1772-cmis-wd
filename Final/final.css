@@ -21,20 +21,16 @@ float: left;
 clear: left;
 }
 main {
-background-color: #AD5597;
-color: #5C60A3;
-border: outset #E0F5A0 5px; 
-clear: middle;
+float: right;
+clear: right;
 }
 h3 {
 background-color: #AD5597;
 color: #5C60A3;
 border: outset #E0F5A0 5px; 
-clear: middle;
 }
 article {
-clear:both;
-margin: 500px;
+clear:right;
 }
 footer {
 background-color: #FDE4F2;
@@ -48,6 +44,16 @@ img {
 float: left;
 clear: left;
 }
+nav {
+background-color: #FDE4F2;
+color: #FF9A9A;
+border: outset #EFFDD2;
+border-width: 5px;
+float: left;
+clear: left;
+}
+
+
 
 
 
