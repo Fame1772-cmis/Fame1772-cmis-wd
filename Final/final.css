@@ -1,36 +1,48 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+@import url(https://fonts.googleapis.com/css?family=Delius+Swash+Caps);
+@import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
 *{ 
-	outline: groove #B0E9E9;
+//	outline: groove #B0E9E9;
 }
 head ~ body {
 background-color:  #B2E9E9 ;
 }
 h1 {
+font-family: 'Lobster', cursive;
 background-color: #FDE4F2;
 color: #FF9A9A;
 border: outset #EFFDD2;
-border-width: 5px;
+width: 410px;
 float: left;
 clear: left;
+font-size: 50px;
 }
 h2 {
+font-family: 'Indie Flower', cursive;
 background-color: #FDE4F2;
 color: #FF9A9A;
-border: outset #EFFDD2;
+border: groove #EFFDD2;
 border-width: 5px;
-float: left;
+float:left;
 clear: left;
+font-size: 30px;
 }
 main {
-float: right;
-clear: right;
+margin-left:100px;
+width: 900px;
 }
 h3 {
 background-color: #AD5597;
-color: #5C60A3;
+color: #FFFFFF;
 border: outset #E0F5A0 5px; 
+font-family: 'Delius Swash Caps', cursive;
+font-size: 30px;
 }
 article {
-clear:right;
+clear:both;
 }
 footer {
 background-color: #FDE4F2;
@@ -41,16 +53,28 @@ float: left;
 clear: left;
 }
 img {
-float: left;
-clear: left;
+float: right;
+clear: right;
 }
 nav {
 background-color: #FDE4F2;
 color: #FF9A9A;
 border: outset #EFFDD2;
-border-width: 5px;
+width: 110px;
 float: left;
 clear: left;
+}
+p{
+font-family: 'Permanent Marker', cursive;
+font-size: 20px;
+}
+li {
+font-family: 'Walter Turncoat', cursive;
+font-size: 20px;
+}
+footer{
+font-family: 'Oswald', sans-serif;
+font-size: 20px;
 }
 
 
