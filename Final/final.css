@@ -4,9 +4,6 @@
 @import url(https://fonts.googleapis.com/css?family=Permanent+Marker);
 @import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
 @import url(https://fonts.googleapis.com/css?family=Oswald);
-*{ 
-//	outline: groove #B0E9E9;
-}
 head ~ body {
 background-color:  #B2E9E9 ;
 }
@@ -24,14 +21,14 @@ h2 {
 font-family: 'Indie Flower', cursive;
 background-color: #FDE4F2;
 color: #FF9A9A;
-border: groove #EFFDD2;
+border: outset #EFFDD2;
 border-width: 5px;
 float:left;
 clear: left;
 font-size: 30px;
 }
 main {
-margin-left:100px;
+margin-left:150px;
 width: 900px;
 }
 h3 {
@@ -52,15 +49,19 @@ border-width: 5px;
 float: left;
 clear: left;
 }
-img {
+img.right {
 float: right;
 clear: right;
+}
+img.left {
+float: left;
+clear: left;
 }
 nav {
 background-color: #FDE4F2;
 color: #FF9A9A;
 border: outset #EFFDD2;
-width: 110px;
+width: 135px;
 float: left;
 clear: left;
 }
